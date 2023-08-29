@@ -73,7 +73,6 @@
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    margin-bottom: 128px;
     text-align: center;
 }
 
@@ -82,7 +81,6 @@
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    margin-bottom: 128px;
     text-align: center;
 }
 
@@ -91,7 +89,6 @@
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-    margin-bottom: 128px;
     text-align: center;
 }
 
@@ -111,6 +108,23 @@
 .font-color {
     color: black;
     padding-top: 32px;
+}
+
+/* support section style */
+
+.support {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1440px;
+    height: 320px;
+    margin: 128px auto;
+}
+
+.support-items {
+    display: flex;
+    padding: 70px;
+    justify-content: space-evenly;
+    text-align: center;
 }
 
 /* added footer style */
