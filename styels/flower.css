@@ -1,0 +1,43 @@
+/* common style */
+* {
+    font-family: Lato;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    border: 0;
+    background: #E55473;
+    padding: 20px 43px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+/* added header style */
+
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.flower-title {
+    font-size: 80px;
+    font-weight: 800;
+    color: #272727;
+    margin-bottom: 32px;
+}
+
+.flower-sub {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+
+.flower-intro-img{
+    margin-left: 97px;
+    margin-top: 50px;
+}
