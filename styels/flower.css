@@ -197,10 +197,42 @@
 
 }
 
+/* deal section styles */
+.deal {
+    background-image: url(/assests/flower-asset/14.png);
+    width: 1440px;
+    height: 449px;
+    margin: 0 auto;
+}
+
+.deal-items {
+    text-align: center;
+    padding-top: 122px;
+}
+
+.deal-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.deal-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.email {
+    width: 700px;
+    height: 55px;
+    margin-right: 16px;
+}
+
 /* added footer style */
 
 footer {
     background-color: #111010;
+    margin-top: 128px;
 
 }
 
