@@ -127,6 +127,76 @@
     text-align: center;
 }
 
+/* offer section styles */
+.offer {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.offer-items {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.offer-item1 {
+    padding: 60px;
+    text-align: center;
+}
+
+.offer-title {
+    font-size: 40px;
+
+    font-weight: 800;
+}
+
+.offer-description {
+    color: rgba(39, 39, 39, 0.60);
+
+    font-size: 18px;
+
+    font-weight: 400;
+}
+
+
+.offer-img {
+    width: 318px;
+    height: 420px;
+    padding: 60px;
+}
+
+
+/* added social styles */
+.social {
+    margin: 128px 0;
+    text-align: center;
+
+}
+
+.social-title {
+    color: #272727;
+
+    font-size: 40px;
+
+    font-weight: 800;
+
+}
+
+.social-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+
+
+.social-images {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+
+}
+
 /* added footer style */
 
 footer {
